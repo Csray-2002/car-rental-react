@@ -24,9 +24,7 @@ function Booking() {
     "Calgary",
     "Edmonton",
     "Winnipeg",
-    "Quebec City",
-    "Halifax",
-    "Victoria",
+    
     "Windsor",
     "Chatham"
   ];
